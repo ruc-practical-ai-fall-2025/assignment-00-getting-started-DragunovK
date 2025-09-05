@@ -7,4 +7,5 @@
 #
 
 # ***Uncomment the line below***
-print("Hello, World!")
+print("Hello, Assignment 0!")
+print("Greetings from local env as well!")
