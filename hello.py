@@ -8,3 +8,4 @@
 
 # ***Uncomment the line below***
 print("Hello, Assignment 0!")
+print("Greetings from local env as well!")
